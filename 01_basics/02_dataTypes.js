@@ -2,5 +2,5 @@
 
 // alert("Hi")
 
-console.log("Hi");
-console.log("I am JS");
+console.log("Hi")
+console.log("I am JS")
